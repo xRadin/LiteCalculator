@@ -1,2 +1,2 @@
 # LiteCalculator
-My first Calculator
+My first C# Project!
